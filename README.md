@@ -21,9 +21,9 @@ Join 30K+ developers in learning how to responsibly <a href="https://madewithml.
 <br>
 <hr>
 
-A project-based course on machine learning & MLOps fundamentals with a focus on intuition and application that teaches you how to apply ML in industry. All the lessons below are **100% free** but we also offer a highly interactive [4-week course](https://madewithml.com/#features) where you'll learn how to master MLOps.
+<!-- A project-based course on machine learning & MLOps fundamentals with a focus on intuition and application that teaches you how to apply ML in industry. All the lessons below are **100% free** but we also offer a highly interactive [4-week course](https://madewithml.com/#features) where you'll learn how to master MLOps.
 
-> ⚡️ For more information on our interactive course offering → **[https://madewithml.com/](https://madewithml.com/)**
+> ⚡️ For more information on our interactive course offering → **[https://madewithml.com/](https://madewithml.com/)** -->
 
 ## Basics
 Learn the foundations of ML through intuitive explanations, clean code and visuals.
@@ -129,12 +129,12 @@ Learn how to apply ML to build a production grade product to deliver value.
     <tr>
         <td align="center"><b>📈&nbsp; Modeling</b></td>
         <td align="center"><b>✅&nbsp; Testing</b></td>
-        <td><a href="https://madewithml.com/courses/mlops/pipelines/">Pipelines</a></td>
+        <td><a href="https://madewithml.com/courses/mlops/feature-store/">Feature store</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/mlops/evaluation/">Evaluation</a></td>
         <td><a href="https://madewithml.com/courses/mlops/testing/">Code</a></td>
-        <td><a href="https://madewithml.com/courses/mlops/feature-store/">Feature store</a></td>
+        <td><a href="https://madewithml.com/courses/mlops/pipelines/">Pipelines</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/mlops/experiment-tracking/">Experiment tracking</a></td>
